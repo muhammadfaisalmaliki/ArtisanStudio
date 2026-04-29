@@ -148,13 +148,13 @@
         @php
             $staffs = [
                 ['name' => 'Nadila Oktaviana', 'role' => 'Sekretaris', 'img' => 'nadila.jpeg'],
-                ['name' => 'Alea Tania', 'role' => 'VP Finance', 'img' => 'lupa.jpeg'],
-                ['name' => 'Syauqi Firdaus', 'role' => 'VP PR', 'img' => 'syauqi.jpeg'],
-                ['name' => 'M. Faisal Maliki', 'role' => 'VP HR', 'img' => 'faisal.jpeg'],
-                ['name' => 'Farrel Devandra', 'role' => 'VP COMERCIAL', 'img' => 'farrel.jpeg'],
-                ['name' => 'Dhia Antar Satir', 'role' => 'VP PRODUCTION', 'img' => 'dhia.jpeg'],
-                ['name' => 'Nasya Anggira', 'role' => 'QC', 'img' => 'nasya.jpeg'],
-                ['name' => 'M. Priska Yamani', 'role' => 'R & D', 'img' => 'priska.jpeg'],
+                ['name' => 'Alea Tania', 'role' => 'VP Finance', 'img' => 'alea.jpeg'],
+                ['name' => 'Syauqi Firdaus', 'role' => 'VP PR', 'img' => 'sawi.jpeg'],
+                ['name' => 'M. Faisal Maliki', 'role' => 'VP HR', 'img' => '...jpeg'],
+                ['name' => 'Farrel Devandra', 'role' => 'VP COMERCIAL', 'img' => 'cipuy.jpeg'],
+                ['name' => 'Dhia Antar Satir', 'role' => 'VP PRODUCTION', 'img' => 'mantap.jpeg'],
+                ['name' => 'Nasya Anggira', 'role' => 'QC', 'img' => 'gak tau.jpeg'],
+                ['name' => 'M. Priska Yamani', 'role' => 'R & D', 'img' => 'endog.jpeg'],
                 ['name' => 'Muhamad Afriza', 'role' => 'HR DEPT', 'img' => 'afriza.jpeg'],
             ];
             $count = count($staffs);
